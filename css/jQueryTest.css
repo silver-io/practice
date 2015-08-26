@@ -1,10 +1,13 @@
 div {
-    height:100px;
-    width:100px;
-    background-color:#FF0000;
+    height:200px;
+    width:200px;
     border-radius:20px;
 }
 
+#red {
+	background-color: red;
+
+}
 #purple {
 	background-color: purple;
 }
