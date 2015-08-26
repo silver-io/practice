@@ -1,3 +1,7 @@
 $(document).ready(function() {
-    $("div" ).fadeOut(2000);
+    $("#red" ).fadeOut(2000);
+});
+
+$(document).ready(function() {
+    $("#purple" ).fadeOut(1000);
 });
