@@ -12,6 +12,14 @@ div {
 	background-color: #50FFF0;
 }
 
+#square3 {
+	background-color: #FAA230;
+	font-size: 40px;
+	text-align: center;
+	font-family: Verdana, Arial, Sans-Serif;
+
+}
+
 button {
 	height: 200px;
     width: 200px;

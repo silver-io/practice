@@ -13,3 +13,11 @@ $(document).ready(function() {
 		$('button').fadeTo('slow', 0.8);
 	});
 });
+
+$(document).ready(function(){
+	$('div').click(function(){
+		$('div').fadeOut('fast');
+	});
+
+});
+
