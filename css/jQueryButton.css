@@ -1,0 +1,23 @@
+.disappear {
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    background-color: #CC1488;
+    border-radius: 5px;
+}
+
+div {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: #FF9C5B;
+    display: inline-block;
+}
+
+.yellow {
+    background-color: #FFF712;
+}
+
+.black {
+    background-color: #000000;
+}
