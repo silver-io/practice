@@ -21,3 +21,11 @@ div {
 .black {
     background-color: #000000;
 }
+
+.blue {
+    height: 200px;
+    width: 200px;
+    background-color: #4ECDC4;
+    border-radius: 20px;
+    display: inline-block;
+}
