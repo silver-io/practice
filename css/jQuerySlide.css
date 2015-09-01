@@ -1,6 +1,18 @@
 body {
-    margin: 0 ;
+    margin: 0 auto;
     padding: 0;
     width:200px;
     text-align: center;
+}
+
+a:hover{
+    box-shadow: 0 0 40px #72CEFF;
+    cursor:progress;
+}
+.panel {
+    background: #ffffbd;
+    background-size:90% 90%;
+    height:500px;
+  
+    font-family:garamond,serif;
 }
