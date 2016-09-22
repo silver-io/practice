@@ -1,1 +1,1 @@
-# A Playground for Front End exercises hosted on javiersilverio.com
+A Playground for Front End exercises hosted on www.javiersilverio.com
